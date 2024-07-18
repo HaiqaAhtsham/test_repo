@@ -1,5 +1,5 @@
 //const sendMail = require('./sendmail.js');
-
+//Applied polymorphism 
 // function signInWithGoogle() {
 //   // Add Google sign-in functionality
 //   console.log("Signing in with Google");
